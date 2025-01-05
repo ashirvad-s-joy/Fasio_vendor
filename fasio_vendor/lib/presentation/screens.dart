@@ -1,0 +1,1 @@
+export 'package:fasio_vendor/presentation/sign_up/sign_up.screen.dart';
